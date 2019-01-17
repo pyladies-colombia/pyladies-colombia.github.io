@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Gallery
+title: Galeria
 subtitle: From the pexels folder
-permalink: /gallery/
+permalink: /galeria/
 gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
 ---

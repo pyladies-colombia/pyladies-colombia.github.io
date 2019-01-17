@@ -1,14 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de
+permalink: /acerca-de/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: [pyladies, Codigo conducta]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+**Pyladies Colombia** es una comunidad con objetivo de enseñar y fomentar la presencia de mujeres en la industria tecnología. La diversidad es clave y es por tal razón que buscamos convertir a todos nuestros participantes en personajes activos y líderes en la comunidad de Python en Colombia y el mundo. Esta comunidad está abierta tanto a mujeres como a todo aquel que quiera aprender y conocer gente (todo alrededor de Python). 
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Todos son bienvenidos independientemente de su identidad, su expresión de género, su orientación sexual, su discapacidad, su apariencia física, su estado socioeconómico, el tamaño de su cuerpo, su etnia, su nacionalidad, su nivel de experiencia, su edad o su religión (o la falta de ella). 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Usamos como código de conducta el código de [Pyladies internacional](http://www.pyladies.com/CodeOfConduct/) donde buscamos dar tranquilidad y seguridad a todas las personas que nos visiten y darles por hecho que pueden contar con nosotros en cualquier caso que no cumpla o irrespete este código. Está comunidad se extiende por medio de estos meetups, conferencias futuras, eventos sociales y proyectos interdisciplinarios que construiremos con todos ustedes. Para contactarte con nosotros, por favor escríbenos un correo a pyladiesco@gmail.com.
